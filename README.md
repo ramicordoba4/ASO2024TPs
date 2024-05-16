@@ -16,5 +16,7 @@ Si las lineas están comentadas los hilos entran simultáneamente y sobrescriben
 2A_![tp3 punto2a](https://github.com/ramicordoba4/ASO2024TPs/assets/166413942/0f154e6d-15e3-452e-9c34-1b4d19dded3f)
 
 las lineas agregadas son las 7,10,16,21
+
 B_
+![TP3 punto2b](https://github.com/ramicordoba4/ASO2024TPs/assets/166413942/83970ff3-eca8-44c4-aa3b-611aa5ea17c4)
 
