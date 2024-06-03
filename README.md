@@ -1,4 +1,4 @@
-    TRABAJO PRACTICO N°3
+    Trabajo Practico N°3
 1_A_
 En el Conhilos.py después de ejecutar el código varias veces da casi siempre el mismo tiempo. Da casi siempre 4,0... o 4,1… o 4,2… 
 pero esto no es porque sea predecible sino que ejecuta el código en una sola linea de tiempo 
