@@ -18,4 +18,5 @@ obtener_clima() {
 read -p "Ingrese la ciudad para obtener el clima: " ciudad
 
 # Obtener el clima de la ciudad
-obtener_clima "$ciudad"
+obtener_clima $ciudad
+&lang=es
